@@ -1,1 +1,0 @@
-# TKG-Image-Builder-for-Kubernetes-v1.23.17-on-TKG-v2.2.0
